@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\bin\Debug\SUM_NUMBERS.exe.config
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\bin\Debug\SUM_NUMBERS.exe
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\bin\Debug\SUM_NUMBERS.pdb
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\obj\Debug\SUM_NUMBERS.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\obj\Debug\SUM_NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\obj\Debug\SUM_NUMBERS.exe
+C:\Users\USER\Downloads\gg-git\c-sum\SUM_NUMBERS\SUM_NUMBERS\obj\Debug\SUM_NUMBERS.pdb
